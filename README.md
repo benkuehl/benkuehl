@@ -19,14 +19,14 @@ I am currently pursuing my Master's in Management with a specialization in Data 
 
 ## Work Experience
 ### Consultant - Deloitte - Cologne, DE
-- Placeholder bullet 1
-- Placeholder bullet 2
+Performed numerous cloud transformation projects following an end-to-end approach from conceptual
+design to implementation with a technical focus on Oracle cloud applications
 ### Consulting Intern - Porsche Consulting GmbH - Munich, DE
-- Placeholder bullet 1
-- Placeholder bullet 2
+Consultant on a task force improving outbound logistics performance and ensuring production
+continuity during the global supply chain crisis.
 ### Consulting Intern - Muecke Roth & Company GmbH - Munich, DE
-- Placeholder bullet 1
-- Placeholder bullet 2
+Co-created and scaled MRC’s Innovation & Venturing branch for clients interested in leveraging
+corporate venturing opportunities to secure lasting innovativeness.
 
 ---
 
