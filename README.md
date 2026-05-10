@@ -8,10 +8,11 @@ I am currently pursuing my Master's in Management with a specialization in Data 
 ---
 
 ## Education
-### M.Sc. Management - Hult International Business School, US                                           Expected Aug 2026
+### M.Sc. Management - Hult International Business School                                          Expected Aug 2026
 - Concentration in Data & Analyics (STEM eligible)
 - Board Member of Hult Consulting Club
-### B.Sc. Business Administration - University of Cologne, DE                                         Apr 2019 - Sep 2022
+### B.Sc. Business Administration
+University of Cologne - Apr 2019 - Sep 2022
 - Specialization in International Strategic Management & Corporate Finance
 - Scholarship holder
 
