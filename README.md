@@ -31,7 +31,7 @@ I am currently pursuing my Master's in Management with a specialization in Data 
 ---
 
 ## Licenses & Certifications
-- Oracle EPM Solution Engineer Specialist - Oracle
+- Oracle EPM Solution Engineer Specialist - ####Oracle
 - Generative AI for IT Systems Analysts and Architects Specialization - IBM
 - Intermediate Python - Datacamp
 - Intermediate SQL - Datacamp
