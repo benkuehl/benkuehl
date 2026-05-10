@@ -43,12 +43,3 @@ corporate venturing opportunities to secure lasting innovativeness.
 ## Let's Connect
 - LinkedIn: [ben-kuehl](https://www.linkedin.com/in/ben-kuehl)
 - Resume: [Download PDF](Resume_Ben_Kuehl.pdf)
-
----
-
-## Featured Projects
-
-### E-Commerce Sales & Profitability Analysis (Tableau)
-[![E-Commerce Dashboard](https://github.com/benkuehl/ecommerce-sales-profitability-tableau/raw/main/tableau-dashboard-preview.png)](https://github.com/benkuehl/ecommerce-sales-profitability-tableau)
-
-Sales and profitability deep-dive on e-commerce data — surfacing department-level margin gaps and SKU-level profit leakage. [View repository →](https://github.com/benkuehl/ecommerce-sales-profitability-tableau)
