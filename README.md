@@ -3,7 +3,7 @@
 
 As a Consultant I work on the intersection of People, Business and Technology. By combining my academic background in business studies with hands on experience as a Digital Transformation Consultant, I help clients leverage Cloud and AI technologies to unlock their full business potential.
 
-I am currently pursuing my Master's in Management with a specialization in Data & Analytics to further enhance my technology portfolio by adding key technical skills such as Python, SQL, Machine Learning and Agentic AI so stick around to follow me along on this journey...
+I am currently pursuing my Master's in Management with a specialization in Data & Analytics to further enhance my technology portfolio by adding key technical skills such as Python, SQL, Machine Learning and Agentic AI, so stick around to follow me along on this journey...
 
 ---
 
