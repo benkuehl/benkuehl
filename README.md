@@ -8,24 +8,23 @@ I am currently pursuing my Master's in Management with a specialization in Data 
 ---
 
 ## Education
-### M.Sc. Management - Hult International Business School                                          Expected Aug 2026
+### M.Sc. Management - Hult International Business School
 - Concentration in Data & Analyics (STEM eligible)
 - Board Member of Hult Consulting Club
-### B.Sc. Business Administration
-University of Cologne - Apr 2019 - Sep 2022
+### B.Sc. Business Administration - University of Cologne
 - Specialization in International Strategic Management & Corporate Finance
 - Scholarship holder
 
 ---
 
 ## Work Experience
-### Consultant - Deloitte - Cologne, DE                                                               Oct 2023 - May 2025
+### Consultant - Deloitte
 Performed numerous cloud transformation projects following an end-to-end approach from conceptual
 design to implementation with a technical focus on Oracle cloud applications
-### Consulting Intern - Porsche Consulting GmbH - Munich, DE                                          Feb 2023 - May 2023
+### Consulting Intern - Porsche Consulting GmbH
 Consultant on a task force improving outbound logistics performance and ensuring production
 continuity during the global supply chain crisis.
-### Consulting Intern - Muecke Roth & Company GmbH - Munich, DE                                       Oct 2022 - Dec 2022
+### Consulting Intern - Muecke Roth & Company GmbH
 Co-created and scaled MRC’s Innovation & Venturing branch for clients interested in leveraging
 corporate venturing opportunities to secure lasting innovativeness.
 
