@@ -9,24 +9,24 @@ I am currently pursuing my Master's in Management with a specialization in Data 
 
 ## Education
 ### M.Sc. Management & Analytics - Hult International Business School, US
-Sample Text Sample Text Sample Text.
-Sample Text Sample Text Sample Text.
+- Placeholder bullet 1
+- Placeholder bullet 2
 ### B.Sc. Business Administration - University of Cologne, DE
-Sample Text Sample Text Sample Text.
-Sample Text Sample Text Sample Text.
+- Placeholder bullet 1
+- Placeholder bullet 2
 
 ---
 
 ## Work Experience
 ### Consultant - Deloitte - Cologne, DE
-Sample Text Sample Text Sample Text.
-Sample Text Sample Text Sample Text.
+- Placeholder bullet 1
+- Placeholder bullet 2
 ### Consulting Intern - Porsche Consulting GmbH - Munich, DE
-Sample Text Sample Text Sample Text.
-Sample Text Sample Text Sample Text.
+- Placeholder bullet 1
+- Placeholder bullet 2
 ### Consulting Intern - Muecke Roth & Company GmbH - Munich, DE
-Sample Text Sample Text Sample Text.
-Sample Text Sample Text Sample Text.
+- Placeholder bullet 1
+- Placeholder bullet 2
 
 ---
 
