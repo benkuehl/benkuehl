@@ -8,11 +8,11 @@ I am currently pursuing my Master's in Management with a specialization in Data 
 ---
 
 ## Education
-### M.Sc. Management & Analytics - Hult International Business School, US
-- Placeholder bullet 1
-- Placeholder bullet 2
+M.Sc. Management - Hult International Business School, US
+- Concentration in Data & Analyics (STEM eligible)
+- Board Member of Hult Consulting Club
 ### B.Sc. Business Administration - University of Cologne, DE
-- Placeholder bullet 1
+- Specialization in International Strategic Management & Corporate Finance
 - Placeholder bullet 2
 
 ---
