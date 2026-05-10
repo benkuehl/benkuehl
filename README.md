@@ -1,16 +1,39 @@
-## Hi there 👋
+# Ben Kuehl
+## Consultant | Business Analyst | AI Enthusiast
 
-<!--
-**benkuehl/benkuehl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+As a Consultant I work on the intersection of People, Business and Technology. By combining my academic background in business studies with hands on experience as a Digital Transformation Consultant, I help clients leverage Cloud and AI technologies to unlock their full business potential.
 
-Here are some ideas to get you started:
+I am currently pursuing my Master's in Management with a specialization in Data & Analytics to further enhance my technology portfolio by adding key technical skills such as Python, SQL, Machine Learning and Agentic AI so stick around to follow me along on this journey...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Education
+### M.Sc. Management & Analytics - Hult International Business School, US
+Sample Text Sample Text Sample Text.
+Sample Text Sample Text Sample Text.
+### B.Sc. Business Administration - University of Cologne, DE
+Sample Text Sample Text Sample Text.
+Sample Text Sample Text Sample Text.
+
+---
+
+## Work Experience
+### Consultant - Deloitte - Cologne, DE
+Sample Text Sample Text Sample Text.
+Sample Text Sample Text Sample Text.
+### Consulting Intern - Porsche Consulting GmbH - Munich, DE
+Sample Text Sample Text Sample Text.
+Sample Text Sample Text Sample Text.
+### Consulting Intern - Muecke Roth & Company GmbH - Munich, DE
+Sample Text Sample Text Sample Text.
+Sample Text Sample Text Sample Text.
+
+---
+
+## Licenses & Certifications
+- Oracle EPM Solution Engineer Specialist - Oracle
+- Generative AI for IT Systems Analysts and Architects Specialization - IBM
+- Intermediate Python - Datacamp
+- Intermediate SQL - Datacamp
+- Getting Started with Tableau - Coursera
+- Prompt Engineering for ChatGPT - Vanderbilt University
