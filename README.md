@@ -7,7 +7,7 @@ I am currently pursuing my Master's in Management with a specialization in Data 
 
 ---
 
-### Education
+## Education
 ### M.Sc. Management - Hult International Business School, US
 - Concentration in Data & Analyics (STEM eligible)
 - Board Member of Hult Consulting Club
