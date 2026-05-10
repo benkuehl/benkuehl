@@ -40,6 +40,6 @@ corporate venturing opportunities to secure lasting innovativeness.
 
 ---
 
-## Connect
+## Let's Connect
 - LinkedIn: [ben-kuehl](https://www.linkedin.com/in/ben-kuehl)
 - Resume: [Download PDF](Resume_Ben_Kuehl.pdf)
