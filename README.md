@@ -37,3 +37,9 @@ corporate venturing opportunities to secure lasting innovativeness.
 - Intermediate SQL - Datacamp
 - Getting Started with Tableau - Coursera
 - Prompt Engineering for ChatGPT - Vanderbilt University
+
+---
+
+## Connect
+- LinkedIn: [ben-kuehl](https://www.linkedin.com/in/ben-kuehl)
+- Resume: [Download PDF](Resume_Ben_Kuehl.pdf)
